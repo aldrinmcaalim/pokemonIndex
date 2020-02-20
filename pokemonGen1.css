@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 219, 172);
+    font-family: 'Rasa', serif;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+  }
+
+img {
+    width: 200px;
+}
+
