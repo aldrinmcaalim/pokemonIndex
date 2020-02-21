@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Simple Page</title>
+</head>
+<body>
+
+    <!-- Start Container -->
+    <header>
+        <div class="container">
+            <h1>Logo</h1>
+            <ul class="navigation">
+                <li><a href="#">About Me</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">Contact Info</a></li>
+            </ul>
+        </div>
+    </header>
+    <!-- End Container -->
+    
+    <!-- Start Section -->
+    <section>
+        <div class="container">
+            <h2>Ronald McDonald</h2>
+            <p>Alcatra porchetta ham hock swine, chicken cupim ham short loin. Pork short ribs drumstick, chuck filet mignon prosciutto
+            pancetta shankle shank jowl porchetta andouille. Pig pork loin filet mignon pork belly meatball capicola rump drumstick
+            kevin bresaola fatback picanha tongue. Meatball rump hamburger sirloin drumstick.</p>
+        </div>
+    </section>
+    <!-- End Section -->
+
+    <!-- Start Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy 2019. McDonalds Taste Great.</p>
+        </div>
+    </footer>
+    <!-- End Footer -->
+</body>
+</html>
